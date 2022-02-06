@@ -1,1 +1,2 @@
-justATestForNewNiceFiles.txt
+justATestForNewNiceFiles.txt;
+Now i'm gonna modified this nice guy;
